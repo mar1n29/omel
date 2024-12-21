@@ -1,0 +1,22 @@
+{
+    "name": "Age Prediction by Name",
+    "short_name": "AgePredict",
+    "description": "A simple app to predict age based on name",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#333333",
+    "icons": [
+      {
+        "src": "11.jpg",
+        "sizes": "192x192",
+        "type": "image/jpg"
+      },
+      {
+        "src": "11.jpg",
+        "sizes": "512x512",
+        "type": "image/jpg"
+      }
+    ]
+  }
+  
